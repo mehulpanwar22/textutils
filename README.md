@@ -4,6 +4,8 @@ TextUtils is a webapp which helps in manipulating text and gives some other cool
 ## How to visit the App
 The app is deployed on GH-Pages. You can visit the app by clicking on the below link.
 
+ https://mehulpanwar22.github.io/textutils/
+
 
 ## How to make changes and run the app on your local
 1. Either fork or download the app and open the folder in your IDE.
